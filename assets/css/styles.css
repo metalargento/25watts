@@ -48,16 +48,7 @@ opacity: 1;
         
 }
 
-#rectangulo {top: 0px;
-    left: 0px;
-    width: 402px;
-    height: 55px;
-    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-600) var(--unnamed-font-size-39)/var(--unnamed-line-spacing-45) var(--unnamed-font-family-poppins);
-    letter-spacing: var(--unnamed-character-spacing-0-55);
-    color: var(--unnamed-color-343434);
-    text-align: left;
-    font: normal normal 600
- }
+
 
 #parrafo1 {top: 1079px;
     left: 299px;
@@ -73,4 +64,31 @@ opacity: 1;
     opacity: 1;
 }
 
-#section3
+#Botonleft {
+    top: 2053px;
+left: 1066px;
+width: 20px;
+height: 20px;
+background: transparent url('img/Icon feather-arrow-left-circle.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+#Botonright {
+    top: 2053px;
+left: 1097px;
+width: 20px;
+height: 20px;
+background: transparent url('img/Icon feather-arrow-right-circle.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+#Boton6 {
+    top: 3568px;
+left: 101px;
+width: 144px;
+height: 48px;
+background: var(--unnamed-color-e0752f) 0% 0% no-repeat padding-box;
+background: #E0752F 0% 0% no-repeat padding-box;
+border-radius: 25px;
+opacity: 1;
+}
