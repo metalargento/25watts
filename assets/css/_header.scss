@@ -1,0 +1,90 @@
+.header {
+    background: url(../images/slider-1.png) no-repeat center;
+    background-size: cover;
+    width: 100%;
+    clear: both;
+    content: '';
+    display: table;
+}
+
+img {
+    margin-left: 50px;
+}
+
+.menu {
+    padding: 50px;
+    border-bottom: 1px solid rgb(241, 164, 63);
+    
+}
+
+.menu li {
+    float: right;
+    list-style: none;
+    color: #faf8f8;
+    text-decoration-color: whitesmoke;
+    display: inline-block; 
+    padding: 5px; 
+    margin-right: 30px;
+
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-family: Roboto;
+}
+
+.seccion {
+    margin: 100px;
+}
+
+#Texto1 {
+    top: 254px;
+    left: 101px;
+    width: 554px;
+    height: 115px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-600) 
+    var(--unnamed-font-size-48)/var(--unnamed-line-spacing-48) var(--unnamed-font-family-poppins);
+    letter-spacing: var(--unnamed-character-spacing-0-67);
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal 600 48px/48px Poppins;
+    letter-spacing: 0.67px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#Texto2 {
+    top: 399px;
+    left: 101px;
+    width: 343px;
+    height: 42px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-medium) 
+    var(--unnamed-font-size-16)/var(--unnamed-line-spacing-21) var(--unnamed-font-family-roboto);
+    letter-spacing: var(--unnamed-character-spacing-0-22);
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal medium 16px/21px Roboto;
+    letter-spacing: 0.22px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#Boton1 {top: 480px;
+    left: 101px;
+    width: 140px;
+    height: 48px;
+    background: var(--unnamed-color-e0752f) 0% 0% no-repeat padding-box;
+    background: #E0752F 0% 0% no-repeat padding-box;
+    border-radius: 25px;
+    opacity: 1;
+    color: white; 
+    font-size: small;
+    font-style: Roboto; 
+}
