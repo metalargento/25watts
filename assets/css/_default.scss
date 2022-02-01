@@ -1,12 +1,15 @@
-dir
 * {
     margin: 0;
-    padding: o;
+    padding: 0;
     box-sizing: border-box;
 }
+/*html {
+    box-sizing: border-box;
+}*/
 
-#body { 
-    padding: auto;
-    margin: left auto;
-    background: white;
-}
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    font-size: 62.5%;
+} 
