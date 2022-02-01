@@ -1,8 +1,12 @@
 @import 'variables';
+@import 'default';
 @import 'header';
 @import 'main';
 @import 'footer';
 
+//$border-color: #e3e3e3
+
+@import '../../node_modules/bootstrap/scss/bootstrap'
 
 
 
